@@ -6,7 +6,7 @@ Este repositório reúne minhas soluções para a lista clássica dos "99 Proble
 
 O objetivo principal deste projeto é demonstrar proficiência em Programação Funcional, com ênfase em imutabilidade, recursão e uso eficiente do sistema de tipos estático do Haskell.
 
-[Visualizar PDF com os enunciados](./SeuArquivo.pdf)
+[Visualizar PDF com os enunciados](https://github.com/limajoaohs/haskell-list-exercises-3/blob/main/Quest%C3%B5es%20Haskell%20Filtradas.pdf)
 
 ## Visão Geral Técnica
 
@@ -33,3 +33,4 @@ EXERCICIOS3/
 |   |-- ...
 |-- LICENSE
 |-- README.md
+
